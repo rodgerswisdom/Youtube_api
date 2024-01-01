@@ -6,7 +6,7 @@ import os.path
 import json
 
 # Constants
-API_KEYS = ["AIzaSyDgyhj3ebmW4Maf_wlV7KwiXzWz1_aAQf4", "AIzaSyCpdlvgAofCyaMbEzsbZtXjOLQpZqUBBM4","AIzaSyDfajqnwObckLr6eip0qf9BjiCs-ajYfM8","AIzaSyAedcY2plT5mW6IsfYTygsD5FQB4V1ICh0","AIzaSyB5SpKmBxmh9kH8HNWOiqzWuZ5WvrJhRm8","AIzaSyACKEbwkn8G4Cpp2BJRPLyeuOO1ecv36W8","AIzaSyC8ep4BsgfOV33aM5C3N-rCI90KPIqRCDQ","AIzaSyA0XPzJ6hbOdq-moTZl9sGcua3rhyJ9Q6E",]
+API_KEYS = ['YOUR API KEY_1,...n']
 API_KEY_INDEX = 0  # Index to keep track of the current API key
 MAX_RESULTS = 100  # Maximum results per request
 
